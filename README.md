@@ -1,3 +1,3 @@
 # odin-recipes
 
-Testing 1, 2, 3
+A few recipes, that's it
